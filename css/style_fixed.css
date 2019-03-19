@@ -22,7 +22,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	background: #fff;
 	color: #333;
-	font-family: 'Lato', "游ゴシック体", yugothic, "游ゴシック", "Yu Gothic", "メイリオ", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
+	font-family: 'Lato', 'Noto Sans JP', "游ゴシック体", yugothic, "游ゴシック", "Yu Gothic", "メイリオ", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
 	font-size: 1.6rem;
 	font-weight: 500;
 	line-height: 1.6;
